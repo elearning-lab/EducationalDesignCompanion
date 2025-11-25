@@ -1,11 +1,13 @@
 # Educational Design Companion
 
-This repository contains an instructional design prompt for LLMs built for educators in health professions education. It operationalises Mayer’s Multimedia Principles to help creators produce clear, effective multimedia learning materials for students in clinical and biomedical programmes.
+This repository contains an instructional design prompt (for LLMs) built for educators in health professions education. It operationalises Mayer’s Multimedia Principles to help creators produce clear, effective multimedia learning materials for students in clinical and biomedical programmes.
 
-## Live version on ChatGPT
+## How to use
 
-You may test it directly on ChatGPT:
+You may test the tool directly on ChatGPT:
 [CustomGPT](https://chatgpt.com/g/g-691093c92d088191af1dd1b86db305cd-educational-design-companion)
+
+Or you can copy the raw prompt to your own LLM: [Open the prompt.txt file](prompt.txt)
 
 ## Purpose
 
@@ -23,12 +25,6 @@ It is written for educators who want direct, actionable guidance without long th
 The prompt integrates the full set of Mayer’s Multimedia Principles, with practical checks for coherence, signalling, contiguity, redundancy, modality, segmenting, pre training, voice, personalisation, and appropriate use of images.
 
 It also references cognitive load theory, dual coding, spacing, and retrieval practice when relevant.
-
-## Files
-
-• **prompt.txt** contains the raw prompt for easy copying: [Open the prompt.txt file](prompt.txt)
-
-• This **README.md** includes context and usage guidance.
 
 ## Usage
 
