@@ -26,7 +26,8 @@ It also references cognitive load theory, dual coding, spacing, and retrieval pr
 
 ## Files
 
-• **prompt.txt** contains the raw prompt for easy copying: [Open the prompt.txt file](prompt.txt) 
+• **prompt.txt** contains the raw prompt for easy copying: [Open the prompt.txt file](prompt.txt)
+
 • This **README.md** includes context and usage guidance.
 
 ## Usage
