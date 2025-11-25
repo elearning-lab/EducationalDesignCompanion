@@ -2,6 +2,11 @@
 
 This repository contains an instructional design prompt for LLMs built for educators in health professions education. It operationalises Mayer’s Multimedia Principles to help creators produce clear, effective multimedia learning materials for students in clinical and biomedical programmes.
 
+## Live version on ChatGPT
+
+You may test it directly on ChatGPT:
+[CustomGPT](https://chatgpt.com/g/g-691093c92d088191af1dd1b86db305cd-educational-design-companion)
+
 ## Purpose
 
 The prompt supports:
@@ -32,7 +37,4 @@ You can import the prompt into your own teaching assistant, custom GPT, or any s
 3. Generating or critiquing content  
 4. Reflecting on educational value  
 
-## Live version on ChatGPT
 
-You may test it directly on ChatGPT:
-<[CustomGPT](https://chatgpt.com/g/g-691093c92d088191af1dd1b86db305cd-educational-design-companion)>
